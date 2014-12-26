@@ -24,9 +24,9 @@ public class Sunday {
 //
 //        Student nowIamStudent = new Student(false, "Jen", 5, 5, 134345);
 //        nowIamStudent.onlyStudentHasThis();
-        ScrambleWord s = new ScrambleWord();
-        System.out.println(s.scrambleWord("AARDVARK"));
-
-        System.out.println(ScrambleWord.scrambleWord("AARDVARK"));
+//        ScrambleWord s = new ScrambleWord();
+//        System.out.println(s.scrambleWord("AARDVARK"));
+//
+//        System.out.println(ScrambleWord.scrambleWord("AARDVARK"));
     }
 }
