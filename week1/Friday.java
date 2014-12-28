@@ -1,4 +1,6 @@
-package APCS.week1;
+package APCS.APCS.week1;
+
+import java.util.ArrayList;
 
 /**
  * Created by ziliangzhu on 12/20/14.
@@ -42,6 +44,7 @@ public class Friday {
 //
 //        Double c = 1.9;
 //        Float d = 1.9F;
+//        float d = 1.9f;
 //
 //        Boolean boo = true;
 
